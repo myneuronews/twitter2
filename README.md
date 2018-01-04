@@ -1,3 +1,5 @@
+This is a fork of duncanleung.
+
 # twitter-sentiment
 **Live Demo:** [twitterment.herokuapp.com](http://twitterment.herokuapp.com)
 
